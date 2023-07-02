@@ -1,0 +1,9 @@
+{
+    "imports": {
+        "langchain/": "npm:/langchain@0.0.102/",
+        "typeorm": "npm:typeorm@0.3.17",
+        "pg": "npm:pg@8.11.1",
+        "@inquirer/prompts": "npm:@inquirer/prompts@2.3.0",
+        "chalk": "npm:chalk@5.3.0"
+    }
+}
