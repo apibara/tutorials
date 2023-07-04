@@ -4,3 +4,7 @@
 
 # Editor
 .vscode
+
+# Parquet files
+*.parquet
+*.ipynb_checkpoints
